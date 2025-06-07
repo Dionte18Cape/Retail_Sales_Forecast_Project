@@ -1,75 +1,71 @@
-# 🛍️ Retail Sales Forecasting Dashboard Project
+# 📈 Retail Sales Forecast Project
 
-📊 Built with: Python (Colab) | Tableau | SQL | PowerPoint  
-🔗 [LinkedIn](https://www.linkedin.com/in/dionte-capleton-54074524a/) | [GitHub](https://github.com/Dionte18Cape)
+This project delivers insights into regional performance, product category trends, and future revenue projections using real-world retail data.
 
----
+## 📊 Retail Sales Forecast Dashboard Preview
 
-## 💼 Business Problem
+[![Dashboard Preview](Screenshot%202025-06-07%20165623.png)](Retail_Sales_Presentation_DionteCape.pdf)
 
-Retail companies often struggle to anticipate upcoming sales trends. The goal of this project is to create an interactive, dynamic dashboard and build a forecasting model to help decision-makers:
-
-- Understand revenue trends
-- Identify top-performing product categories
-- Forecast future sales using historical data
+Click the image to view the full presentation.
 
 ---
 
-## 🧠 Tools & Techniques
+## 🧠 Project Overview
 
-- **Python (Google Colab)** for data prep and forecasting
-- **Tableau** for interactive dashboards
-- **SQL** for quick insights on the dataset
-- **PowerPoint** to present findings in a professional format
+A retail company wanted to better understand how their products perform by region, category, and gender—and forecast future revenue. This dashboard and analysis pipeline helps identify top-performing states, customer segments, and expected revenue trends to guide data-driven decisions.
 
----
+## 🔍 Business Problem
 
-## 📂 Project Sections
-
-### 1. Data Preview (`notebooks/retail_sales_forecast.ipynb`)
-- Cleaned missing values
-- Converted date columns
-- Created RFM metrics (Recency, Frequency, Monetary)
-
-### 2. Forecast Model
-- Used Facebook Prophet to forecast monthly revenue
-- Visualized results with matplotlib
-- Exported predictions for use in Tableau
-
-### 3. SQL Insights
-Key queries:
-- 📈 Total Revenue by Product
-- 📍 Top States by Sales
-- 📆 Monthly Revenue Trends
-
-### 4. Visualizations (`dashboard/`)
-- Tableau dashboard with:
-  - KPIs (Total Revenue, Sales Growth, etc.)
-  - Forecast Trend Line
-  - Map View by State
-  - Filters: Product, Gender, Year
-- Custom color formatting and branded visuals
+**How can we identify our most profitable segments and forecast monthly revenue to support smarter inventory and marketing strategies?**
 
 ---
 
-## 🖥️ Presentation
-
-- Final presentation in `/presentation/Retail_Sales_Presentation.pptx`
-- Includes:
-  - Overview & business case
-  - Key findings
-  - Screenshots of dashboard
-  - Strategic insights
+## 🧰 Tools & Technologies
+- **Python** (Pandas, Prophet, Matplotlib)
+- **Tableau** (Dashboard and interactive visuals)
+- **SQL (via SQLite in Colab)** for segment-based insights
+- **PowerPoint** for storytelling and final presentation
 
 ---
 
-## ✅ Next Steps
+## 🧪 Notebook: Forecast Modeling + SQL
 
-- Add more advanced ML for customer segmentation
-- Pull live data using APIs
-- Automate dashboard updates
+The Colab notebook includes:
+- Data cleaning
+- Revenue forecasting using Facebook Prophet
+- SQL insights (Top States, Revenue by Gender, Category breakdown)
+
+📗 [Open Colab Notebook](Retail_Sales.ipynb)
 
 ---
 
-⭐ If you found this helpful, connect with me on [LinkedIn](https://www.linkedin.com/in/dionte-capleton-54074524a/)!
+## 📊 Tableau Dashboard
+
+Built using Tableau Public Desktop, includes:
+- Interactive filters (Month, Gender, Category, State)
+- Sales Forecast (actual vs. predicted)
+- Monthly trend comparison
+- State-level performance
+- Category-level revenue
+
+📁 [Download Dashboard File](Retail%20Sales%20Forecast%20Dashboard.twb)
+
+---
+
+## 📎 Presentation
+
+Final findings and visuals are summarized in the deck:
+
+🎯 [View the Presentation PDF](Retail_Sales_Presentation_DionteCape.pdf)
+
+---
+
+## 🔗 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/dionte-capleton-54074524a/)
+- [GitHub](https://github.com/Dionte18Cape)
+
+---
+
+> *Built by Dionte Capleton — turning data into strategy.*
+
 
