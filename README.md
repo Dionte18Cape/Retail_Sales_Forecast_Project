@@ -35,7 +35,10 @@ The Colab notebook includes:
 - Revenue forecasting using Facebook Prophet
 - SQL insights (Top States, Revenue by Gender, Category breakdown)
 
-📗 [Open Colab Notebook](Retail_Sales.ipynb)
+
+[![Forecast Chart](https://raw.githubusercontent.com/Dionte18Cape/Retail_Sales_Forecast_Project/main/Screenshot%202025-06-07%20163649.png)](https://github.com/Dionte18Cape/Retail_Sales_Forecast_Project/blob/main/Retail_Sales.ipynb)
+
+📗 Click the image to Open Colab Notebook
 
 ---
 
