@@ -4,7 +4,7 @@ This project delivers insights into regional performance, product category trend
 
 ## 📊 Retail Sales Forecast Dashboard Preview
 
-[![Dashboard Preview](Screenshot%202025-06-07%20165623.png)](Retail_Sales_Presentation_DionteCape.pdf)
+[![Retail Dashboard](https://raw.githubusercontent.com/Dionte18Cape/Retail_Sales_Forecast_Project/main/Screenshot%202025-06-07%20165023.png)](https://github.com/Dionte18Cape/Retail_Sales_Forecast_Project/blob/main/Retail_Sales_Presentation_DionteCape.pdf)
 
 Click the image to view the full presentation.
 
